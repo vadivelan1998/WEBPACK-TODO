@@ -1,0 +1,20 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+.center{
+    text-align: center;
+}
+.redcolor{
+    color: tomato;
+}
+.bgheading{
+    background-color: rgb(247, 222, 154);
+}
+.mariginauto{
+    margin: auto;
+}
+#logo{
+    width:200px;
+    height: 200px;
+}
